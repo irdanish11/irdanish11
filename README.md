@@ -44,8 +44,10 @@ Property | Data
 ---
   *Developer Story*
 ---
-I am 25 years of age and I am living in Islamabad since 2015 and this is where I completed my higher studies. I did my Bachelors in Electronics from COMSATS Islamabad. I have always been passionate about computer science and programming and during this program I realized how passionate I was towards AI. I started working on machine learning projects on upwork. And during my sixth semester I considered working on AI for my FYP, because I had some prior knowledge of it through self-learning. And I selected the project [AI Based Urdu language NLP chatbot](), which had the ability to understand the context and provide meaningful answers.
+I am 25 years of age and I am living in Islamabad since 2015 and this is where I completed my higher studies. I did my Bachelors in Electronics from COMSATS Islamabad. I have always been passionate about computer science and programming and during this program I realized how passionate I was towards AI. I started working on machine learning projects on upwork. And during my sixth semester I considered working on AI for my FYP, because I had some prior knowledge of it through self-learning. And I selected the project [AI Based Urdu language NLP chatbot](https://github.com/irdanish11/Seq2Seq-UrduChatBot), which had the ability to understand the context and provide meaningful answers.
+
 I started my career by offering my machine learning services on upwork. I worked on many projects of different complexities. One of my clients from Upwork, Urbanise a facilities and strata management company located in Melbourne, Australia offered me a full-time remote job as a Machine Learning Engineer. And during this tenure of 3 years I worked on many different aspects of Machine Learning, MLOps, Big Data & AWS.
+
 In September 2020, amidst my remote job, I also started my Masters in Data Science from FAST-NUCES Islambdad. Currently I am working on my thesis in the field of Gemoetric Deep Learning & Graph Machine Learning. To sum it all up I am basically a ML Engineer, who has more than 4 years of experience in ML, MLOps, Big Data, & AWS. 
 
 

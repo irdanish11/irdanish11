@@ -19,7 +19,7 @@ Property | Data
 ### 📈 GitHub Activity Graph:
 ![Irfan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=irdanish11&hide_border=true&theme=redical)
 
- . | .
+ Github Stats | Language Stats
 --- | --- 
 ![Irfan's github stats](https://github-readme-stats.vercel.app/api?username=irdanish11&show_icons=true&theme=radical&include_all_commits=true) | ![Irfan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=irdanish11&theme=radical&layout=compact)
 

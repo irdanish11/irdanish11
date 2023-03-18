@@ -21,7 +21,9 @@ Property | Data
 
  Github Stats | Language Stats
 --- | --- 
-![Irfan's github stats](https://github-readme-stats.vercel.app/api?username=irdanish11&show_icons=true&theme=radical&include_all_commits=true) | ![Irfan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=irdanish11&theme=radical&layout=compact)
+![Irfan's github stats](https://github-readme-stats.vercel.app/api?username=irdanish11&show_icons=true&theme=radical&include_all_commits=true) | ![Irfan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=irdanish11&theme=radical&layout=compact&langs_count=10&hide=Jupyter Notebook)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irdanish11&layout=compact)](https://github.com/irdanish11/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=irdanish11"></img>
 
